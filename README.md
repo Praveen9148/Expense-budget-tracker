@@ -21,7 +21,7 @@ A modern, responsive React application for tracking expenses and managing budget
 
 ## 🚀 Live Demo
 
-[![Vercel](https://img.shields.io/badge/View_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://expense-budget-tracker.vercel.app)
+https://expense-budget-tracker-eosin.vercel.app/
 
 ## 📦 Installation
 
